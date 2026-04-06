@@ -41,3 +41,7 @@ Kami mencoba membaca file /opt/nac/final_directive.txt menggunakan perintah cat,
 Hasil inspeksi menunjukkan adanya symbolic link tersembunyi bernama .runtime_cache yang mengarah ke file asli di /opt/nac/vault/.flag_store. Kami mengeksekusi perintah cat /opt/nac/vault/.flag_store melalui celah injeksi tersebut. Langkah ini berhasil menampilkan isi file yang berisi kode flag yang di cari (d3c0d3_th3_v4ult_th1s)
 
 <img width="1320" height="681" alt="Screenshot 2026-04-06 205226" src="https://github.com/user-attachments/assets/a8c14523-9072-4044-8b05-d8a5e50d9b29" />
+
+5. Submit Flag Flag berhasil ditemukan.
+
+   ![WhatsApp Image 2026-04-05 at 10 16 43](https://github.com/user-attachments/assets/a3df403a-00cc-4aaa-9f8b-755f5c7ef4f4)
